@@ -1,0 +1,3 @@
+{
+  "plugins": ["livereload","highlight","search","lunr","sharing","fontsettings","theme-default","sequence"]
+}
